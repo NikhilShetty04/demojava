@@ -6,6 +6,7 @@ public class demo
 
         System.out.println("Addition:"+(a+b));
         System.out.println("Subtraction"+(a-b));
+        System.out.println("Multipication:"+(a*b));
 
     }
 }
